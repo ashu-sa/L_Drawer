@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/crics/AndroidStudioProjects/Ldrawer/app/src/main/res/drawable/background_canvas.xml" value="0.198" />
+        <entry key="..\:/Users/crics/AndroidStudioProjects/Ldrawer/app/src/main/res/drawable/large_circle_bg.xml" value="0.198" />
+        <entry key="..\:/Users/crics/AndroidStudioProjects/Ldrawer/app/src/main/res/drawable/medium_circle_bg.xml" value="0.198" />
+        <entry key="..\:/Users/crics/AndroidStudioProjects/Ldrawer/app/src/main/res/drawable/pallet_pressed.xml" value="0.198" />
+        <entry key="..\:/Users/crics/AndroidStudioProjects/Ldrawer/app/src/main/res/drawable/pallete_normal.xml" value="0.198" />
+        <entry key="..\:/Users/crics/AndroidStudioProjects/Ldrawer/app/src/main/res/drawable/small_circle_bg.xml" value="0.198" />
+        <entry key="..\:/Users/crics/AndroidStudioProjects/Ldrawer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/crics/AndroidStudioProjects/Ldrawer/app/src/main/res/layout/dialouge_brushsize.xml" value="0.17708333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
